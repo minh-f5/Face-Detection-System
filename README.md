@@ -22,6 +22,11 @@ You can install the required packages using pip:
 
 ```bash
 pip install opencv-python
+```
+## 🎉Results
+
+
+
 
 
 ## 📧 Email Configuration
@@ -32,19 +37,26 @@ Modify the SENDER_EMAIL and SENDER_PASSWORD fields accordingly.
 
 📁 Project Structure
 
-
 ├── main.py 
 ├── latecomers.db             
 ├── requirements.txt      
-└── README.md                
-### 📊 Example Results
+└── README.md  
+
+## 🎉Results              
+
 
 - A record of late arrivals with timestamps. 
-![screenshot](.//late_images/Screenshot%202024-10-31%20124308.png)
+
+![blabla](.//late_images/Mi%20Min_20241031_121136.jpg)
 
 - Photos of latecomers captured during their arrival.
-![latecomers](.//late_images/Mi%20Min_20241031_121550.jpg)
+![latecomers](.//late_images/Screenshot%202024-10-31%20124308.png)
+
 - Automated email notifications sent to the management team.
 ![email](.//late_images/Screenshot%202024-10-31%20124940.png)
 
-![Example](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXQyNmxoN3hhMnl5ZzBvY3Z2cTEza2xoZ2RsbzZkcmsyeHdhc3YwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I7k5k9lZqTC8dXxq3O/giphy.gif)
+
+
+
+
+![Pudgy Penguins Smile](https://media.giphy.com/media/Zhzojsn90o2m5MGg9x/giphy.gif)
